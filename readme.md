@@ -11,6 +11,8 @@ Deux fichiers ressortent de ce traitement :
 - un fichier .txt qui regroupe les mesures du pitch
 - un fichier .csv qui donne les pourcentages d'évolution ainsi que le résultat du calcul (est-ce que oui ou non l'évolution est similaire à xx%)
 
+Ce script a été pensé pour comparer deux énoncés similaires prononcés par deux personnes différentes. Je n'ai pas testé la robustesse du script sur des fichiers totalement différents (mais tout porte à croire que le script ne fonctionnerait simplement pas).
+
 ## Prérequis
 
 L'execution de ce script nécessite l'installation de [Praat](https://www.fon.hum.uva.nl/praat/) ainsi que du plug-in [EasyAlign](http://latlcui.unige.ch/phonetique/easyalign.php).

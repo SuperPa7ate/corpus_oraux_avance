@@ -64,7 +64,7 @@ Une fenêtre pop-up apparaît alors pour donner certaines informations relatives
 
 ### Images du prompt et des sorties 
 Exemple du prompt : 
-![](https://i.imgur.com/oFtWP6H.png)
+- ![](https://i.imgur.com/oFtWP6H.png)
 
 Exemple des fichiers de sortie  :
 - Le fichier .txt qui contient les mesures : ![](https://i.imgur.com/fOgCh9M.png)

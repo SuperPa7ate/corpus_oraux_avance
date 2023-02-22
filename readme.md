@@ -83,5 +83,6 @@ Quelques améliorations au sein du script sont également possibles :
 
 ## Remerciements
 Llyad, pour le petit coup de main mathématique pour la comparaison des courbes.
+
 Vous-mêmes, qui avez survécu jusqu'à la fin.
 
